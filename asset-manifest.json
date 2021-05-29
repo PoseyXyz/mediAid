@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mediAid/static/css/main.192bdf19.chunk.css",
-    "main.js": "/mediAid/static/js/main.bce42728.chunk.js",
-    "main.js.map": "/mediAid/static/js/main.bce42728.chunk.js.map",
+    "main.js": "/mediAid/static/js/main.cba16886.chunk.js",
+    "main.js.map": "/mediAid/static/js/main.cba16886.chunk.js.map",
     "runtime-main.js": "/mediAid/static/js/runtime-main.3be29c03.js",
     "runtime-main.js.map": "/mediAid/static/js/runtime-main.3be29c03.js.map",
     "static/js/2.19740f64.chunk.js": "/mediAid/static/js/2.19740f64.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3be29c03.js",
     "static/js/2.19740f64.chunk.js",
     "static/css/main.192bdf19.chunk.css",
-    "static/js/main.bce42728.chunk.js"
+    "static/js/main.cba16886.chunk.js"
   ]
 }
